@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.actitime.timetrack.Demo"/>
+      <class name="com.actitime.timetrack.Remo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
