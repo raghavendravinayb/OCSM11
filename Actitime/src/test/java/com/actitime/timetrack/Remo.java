@@ -10,5 +10,6 @@ public class Remo {
 	{
 		Reporter.log("Remo Tests Successully running",true);
 		Reporter.log("Jenkins Testing",true);
+		Reporter.log("Jenkins Poll SCM test",true);
 	}
 }
