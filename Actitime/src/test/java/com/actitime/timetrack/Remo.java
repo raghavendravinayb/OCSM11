@@ -9,5 +9,6 @@ public class Remo {
 	public void run()
 	{
 		Reporter.log("Remo Tests Successully running",true);
+		Reporter.log("Jenkins Testing",true);
 	}
 }
