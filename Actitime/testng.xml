@@ -3,6 +3,7 @@
     <classes>
       <class name="com.actitime.timetrack.Demo"/>
       <class name="com.actitime.timetrack.Remo"/>
+      <class name="com.actitime.timetrack.Sumo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
